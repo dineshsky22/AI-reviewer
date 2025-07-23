@@ -1,2 +1,2 @@
-b = 'hello'
-print(b)
+a = 'hello'
+print(a)
